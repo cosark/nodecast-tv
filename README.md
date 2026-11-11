@@ -101,6 +101,18 @@ The application will be available at `http://localhost:3000`.
 [easypanel-btn]: https://easypanel.io/img/deploy-on-easypanel-40.svg
 [easypanel-deploy]: https://easypanel.io/templates/nodecast-tv
 
+### Deploy with RepoCloud
+
+nodecast-tv has a one-click deployment on [RepoCloud](https://repocloud.io):
+
+<a href="https://repocloud.io/details/nodecast-tv/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="40"></a>
+
+### Deploy with Railway
+
+nodecast-tv has a one-click deployment on [Railway](https://railway.com):
+
+<a href="https://railway.com/deploy/nodecast-tv-nodecast-tv"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="40"></a>
+
 ### Hardware Acceleration Setup
 
 To enable hardware transcoding (NVENC, QSV, VAAPI), you must expose your host's GPU to the container.
